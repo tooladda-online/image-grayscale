@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚫ Grayscale Image Converter
+# 🖼️ Grayscale Image Converter
 
 ### Use Grayscale Image Converter free on ToolAdda — quick, accurate, and browser-based.
 
@@ -9,7 +9,7 @@
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/image-grayscale.html)
 [![Category](https://img.shields.io/badge/Image%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Use Image Grayscale | ToolAdda with ToolAdda to complete tasks quickly, accurately, and privately in your browser.**
+**Free Image to Grayscale Converter — turn photos black &amp; white online with a live before/after slider and adjustable intensity. Batch convert &amp; download. No signup, no upload, no watermark.**
 
 [🚀 **Open Grayscale Image Converter Now →**](https://tooladda.online/image-grayscale.html)
 
@@ -91,11 +91,16 @@ Visit tooladda.online — search for Grayscale Image Converter or use the link i
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>grayscale image converter</code>&nbsp;
-  <code>free grayscale image converter</code>&nbsp;
-  <code>online grayscale image converter</code>&nbsp;
-  <code>grayscale image converter tooladda</code>&nbsp;
-  <code>image grayscale</code>&nbsp;
+  <code>image grayscale converter</code>&nbsp;
+  <code>convert image to grayscale</code>&nbsp;
+  <code>grayscale image online</code>&nbsp;
+  <code>black and white image converter</code>&nbsp;
+  <code>convert photo to grayscale</code>&nbsp;
+  <code>grayscale photo maker</code>&nbsp;
+  <code>online grayscale converter</code>&nbsp;
+  <code>turn image gray</code>&nbsp;
+  <code>convert png to grayscale</code>&nbsp;
+  <code>grayscale image maker free</code>&nbsp;
 </p>
 
 ---
@@ -112,4 +117,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Grayscale Image Converter, grayscale image converter, free grayscale image converter, online grayscale image converter, grayscale image converter tooladda, image grayscale, tooladda, free online tool -->
+<!-- SEO: Grayscale Image Converter, image grayscale converter, convert image to grayscale, grayscale image online, black and white image converter, convert photo to grayscale, grayscale photo maker, online grayscale converter, turn image gray, convert png to grayscale, grayscale image maker free, tooladda, free online tool -->
